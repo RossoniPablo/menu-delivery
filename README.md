@@ -31,7 +31,6 @@ Live Preview: https://menu-delivery.vercel.app/
 Projeto  desenvolvido com as seguintes tecnologias:
 
 - HTML
-- CSS
 - JavaScript
 - Tailwind CSS
 - WhatsApp API
